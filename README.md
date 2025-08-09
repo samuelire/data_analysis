@@ -3,13 +3,14 @@
 
 This project explores the Student Admission Records dataset sourced from Kaggle, focusing on understanding how high school grades and admission test scores relate to final academic performance.
 
-✅ Current Status: Initial analysis completed using Microsoft Excel🚧 Planned Enhancements: Will integrate Python and Power BI for advanced data visualization and deeper insights
+Current Status: Initial analysis completed using Microsoft Excel Planned Enhancements:
+Will integrate Python and Power BI for advanced data visualization and deeper insights
 
-📁 Dataset Overview
+Dataset Overview
 
 Source: Kaggle - Student Admission Records(https://www.kaggle.com/datasets/zeeshier/student-admission-records)
 
-Rows: 500+
+Rows: 148 after cleaning 
 
 Features:
 
@@ -21,7 +22,7 @@ Admission Test Percentage
 
 Grade, Status
 
-🎯 Objectives
+Objectives
 
 Understand how different factors affect student performance
 
@@ -35,7 +36,7 @@ Final grades
 
 Lay the groundwork for predictive modeling using Python in future updates
 
-✅ Tools Used
+Tools Used
 
 Stage
 
@@ -53,7 +54,7 @@ Planned
 
 Python (Pandas, Seaborn), Power BI
 
-📊 Key Insights (Excel-based)
+Key Insights (Excel-based)
 
 Students with high admission test scores generally performed better academically
 
@@ -66,3 +67,12 @@ range between aceepted and rejected students.
 sum of admission test score 
 
 Note: These insights are based on Excel visual analysis. More accurate statistical models will be added later.
+
+
+
+
+
+
+
+
+
